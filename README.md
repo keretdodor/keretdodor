@@ -40,6 +40,23 @@
 
 ---
 
+<h2>💼 Featured Projects</h2>
+
+<ul>
+  <li><strong>[Project Name]</strong>: Short description of the project. Technologies used: Kubernetes, Terraform, AWS, Jenkins. [Link to the repo]</li>
+  <li><strong>[Another Project]</strong>: Short description. Technologies used: Docker, Helm, Flask. [Link to the repo]</li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keretdodor&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keretdodor&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 <h2>📫 Contact Me</h2>
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/dorkeret/">linkedin.com/in/dorkeret</a></li>

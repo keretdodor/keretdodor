@@ -43,7 +43,7 @@
 <h2>💼 Featured Projects</h2>
 
 <ul>
-  <li><strong>[Project Name]</strong>: Short description of the project. Technologies used: Kubernetes, Terraform, AWS, Jenkins. [Link to the repo]</li>
+  <li><strong>CI/CD</strong>:Seamless CI/CD Pipeline with Jenkins, ArgoCD, DockerHub, and Kubernetes for Automated Build and Deployment. Additional technologies used: Helm, Ngrok and Groovey. https://github.com/keretdodor/netflix-infra</li>
   <li><strong>[Another Project]</strong>: Short description. Technologies used: Docker, Helm, Flask. [Link to the repo]</li>
 </ul>
 
